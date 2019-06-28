@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\93ec795c8999c49b8694dc461bca258b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\1261384102ccaee60b161fc6152b9c03\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\310c5959bed451ea6d97410bac34a0e6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\691fb99c74c28faec6a468b1ab7c3ada\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\42e07f919f3d558f163e7611eb2ea655\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\9a6c147b64593f97edae386c530a9d4e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\f469634623205a9473f57134960a8324\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\ed2c56d030418f4e065240d33f81ca5b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\04c8a36bafde228a26c4d8efdf383f82\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\5342305ccd336a1ab629441b0a300a13\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\31446689a3a2151a9427d456a39a696f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\5f8792dfb5cbd2da52ec535ceeac21c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\72d8bd4e16722dcbfd87c532a224dafb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\397a6f9f563a36010a39379c8ba6ae1e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\1681537afa471a7ab552561a03806bc0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\53af94f8e8c4c57ac07ef6e52a19da4f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\6f6f713e851d96740e3ebd83e447be9b\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\79ed31162f9a4ccaa6e2e6b3d4a2a0d0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\3e03d3bc7235e5c435ed7bc9f6a31aaf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\fbeee264b59b1223f186c83436c3af37\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\9361f604b358747c2594c1e99d804c1f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\3279d7e5786cb2969778db9b8022411a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\ea6f234329191083944408f016438f7b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\7d77146189e87e032b078c9c0df698dc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\565aa362e694d61fbd4e840f1f1773d4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\ebc215ade8ddda95fa5fe02113d170af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\e677e81d0788e106d1ea6978fbc5bb1b\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml
+	xmlns:dist
+		ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:3:5-61
+	android:versionCode
+		INJECTED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:2:11-69
+dist:module
+ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:6:5-40
+	dist:instant
+		ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:6:18-37
+application
+ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:8:5-32:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\1261384102ccaee60b161fc6152b9c03\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\1261384102ccaee60b161fc6152b9c03\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\53af94f8e8c4c57ac07ef6e52a19da4f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\53af94f8e8c4c57ac07ef6e52a19da4f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\6f6f713e851d96740e3ebd83e447be9b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\6f6f713e851d96740e3ebd83e447be9b\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\53af94f8e8c4c57ac07ef6e52a19da4f\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:14:9-40
+service#com.example.memorygame.SoundService
+ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:15:9-18:47
+	android:enabled
+		ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:17:13-35
+	android:exported
+		ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:16:13-41
+activity#com.example.memorygame.MemoryGame
+ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:20:9-24:15
+	android:screenOrientation
+		ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:23:13-49
+	android:parentActivityName
+		ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:22:13-55
+	android:name
+		ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:21:13-39
+activity#com.example.memorygame.MainActivity
+ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:25:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\93ec795c8999c49b8694dc461bca258b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\93ec795c8999c49b8694dc461bca258b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\1261384102ccaee60b161fc6152b9c03\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\1261384102ccaee60b161fc6152b9c03\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\310c5959bed451ea6d97410bac34a0e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\310c5959bed451ea6d97410bac34a0e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\691fb99c74c28faec6a468b1ab7c3ada\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\691fb99c74c28faec6a468b1ab7c3ada\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\42e07f919f3d558f163e7611eb2ea655\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\42e07f919f3d558f163e7611eb2ea655\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\9a6c147b64593f97edae386c530a9d4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\9a6c147b64593f97edae386c530a9d4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\f469634623205a9473f57134960a8324\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\f469634623205a9473f57134960a8324\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\ed2c56d030418f4e065240d33f81ca5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\ed2c56d030418f4e065240d33f81ca5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\04c8a36bafde228a26c4d8efdf383f82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\04c8a36bafde228a26c4d8efdf383f82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\5342305ccd336a1ab629441b0a300a13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\5342305ccd336a1ab629441b0a300a13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\31446689a3a2151a9427d456a39a696f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\31446689a3a2151a9427d456a39a696f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\5f8792dfb5cbd2da52ec535ceeac21c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\5f8792dfb5cbd2da52ec535ceeac21c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\72d8bd4e16722dcbfd87c532a224dafb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\72d8bd4e16722dcbfd87c532a224dafb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\397a6f9f563a36010a39379c8ba6ae1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\397a6f9f563a36010a39379c8ba6ae1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\1681537afa471a7ab552561a03806bc0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\1681537afa471a7ab552561a03806bc0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\53af94f8e8c4c57ac07ef6e52a19da4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\53af94f8e8c4c57ac07ef6e52a19da4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\6f6f713e851d96740e3ebd83e447be9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\6f6f713e851d96740e3ebd83e447be9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\79ed31162f9a4ccaa6e2e6b3d4a2a0d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\79ed31162f9a4ccaa6e2e6b3d4a2a0d0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\3e03d3bc7235e5c435ed7bc9f6a31aaf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\3e03d3bc7235e5c435ed7bc9f6a31aaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\fbeee264b59b1223f186c83436c3af37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\fbeee264b59b1223f186c83436c3af37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\9361f604b358747c2594c1e99d804c1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\9361f604b358747c2594c1e99d804c1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\3279d7e5786cb2969778db9b8022411a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\3279d7e5786cb2969778db9b8022411a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\ea6f234329191083944408f016438f7b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\ea6f234329191083944408f016438f7b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\7d77146189e87e032b078c9c0df698dc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\7d77146189e87e032b078c9c0df698dc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\565aa362e694d61fbd4e840f1f1773d4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\565aa362e694d61fbd4e840f1f1773d4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\ebc215ade8ddda95fa5fe02113d170af\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\ebc215ade8ddda95fa5fe02113d170af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\e677e81d0788e106d1ea6978fbc5bb1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Matse\.gradle\caches\transforms-2\files-2.1\e677e81d0788e106d1ea6978fbc5bb1b\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Matse\Desktop\MemoryGame2\app\src\main\AndroidManifest.xml

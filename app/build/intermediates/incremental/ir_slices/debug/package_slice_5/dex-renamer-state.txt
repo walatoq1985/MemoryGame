@@ -1,0 +1,4 @@
+#Fri Jun 28 08:41:57 CEST 2019
+base.0=C\:\\Users\\Matse\\Desktop\\MemoryGame2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
